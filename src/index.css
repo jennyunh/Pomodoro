@@ -9,6 +9,9 @@ background: #EEF5DB;
 font-family: 'Righteous', cursive;
 }
 
+#container{
+  height: 700px;
+}
 
 
 /* MAIN TITLE - 'POMODORO' */
